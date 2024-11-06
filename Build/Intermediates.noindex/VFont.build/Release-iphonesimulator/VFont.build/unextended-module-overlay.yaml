@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/ssaifulin/repos/vfont/Build/Products/Release-iphonesimulator/VFont.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFont.build/Release-iphonesimulator/VFont.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/ssaifulin/repos/vfont/Build/Products/Release-iphonesimulator/VFont.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "VFont-Swift.h",
+      'external-contents': "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFont.build/Release-iphonesimulator/VFont.build/unextended-interface-header.h",
+    }]
+    }]
+}

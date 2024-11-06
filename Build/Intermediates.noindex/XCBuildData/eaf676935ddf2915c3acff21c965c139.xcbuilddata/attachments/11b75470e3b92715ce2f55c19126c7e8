@@ -1,0 +1,118 @@
+{
+  "" : {
+    "diagnostics" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/VFontDemoUIKit-master.dia",
+    "emit-module-dependencies" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/VFontDemoUIKit-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/VFontDemoUIKit-master-emit-module.dia",
+    "swift-dependencies" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/VFontDemoUIKit-master.swiftdeps"
+  },
+  "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/ssaifulin/repos/vfont/Example/VFontDemoUIKit/Application/AppDelegate.swift" : {
+    "const-values" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/ssaifulin/repos/vfont/Example/VFontDemoUIKit/Application/SceneDelegate.swift" : {
+    "const-values" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/ssaifulin/repos/vfont/Example/VFontDemoUIKit/FontListViewController.swift" : {
+    "const-values" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/FontListViewController.swiftconstvalues",
+    "dependencies" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/FontListViewController.d",
+    "diagnostics" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/FontListViewController.dia",
+    "index-unit-output-path" : "/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/FontListViewController.o",
+    "llvm-bc" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/FontListViewController.bc",
+    "object" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/FontListViewController.o",
+    "swift-dependencies" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/FontListViewController.swiftdeps",
+    "swiftmodule" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/FontListViewController~partial.swiftmodule"
+  },
+  "/Users/ssaifulin/repos/vfont/Example/VFontDemoUIKit/Fonts/Generated.swift" : {
+    "const-values" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/Generated.swiftconstvalues",
+    "dependencies" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/Generated.d",
+    "diagnostics" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/Generated.dia",
+    "index-unit-output-path" : "/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/Generated.o",
+    "llvm-bc" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/Generated.bc",
+    "object" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/Generated.o",
+    "swift-dependencies" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/Generated.swiftdeps",
+    "swiftmodule" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/Generated~partial.swiftmodule"
+  },
+  "/Users/ssaifulin/repos/vfont/Example/VFontDemoUIKit/Fonts/InfoPlistReader.swift" : {
+    "const-values" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/InfoPlistReader.swiftconstvalues",
+    "dependencies" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/InfoPlistReader.d",
+    "diagnostics" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/InfoPlistReader.dia",
+    "index-unit-output-path" : "/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/InfoPlistReader.o",
+    "llvm-bc" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/InfoPlistReader.bc",
+    "object" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/InfoPlistReader.o",
+    "swift-dependencies" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/InfoPlistReader.swiftdeps",
+    "swiftmodule" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/InfoPlistReader~partial.swiftmodule"
+  },
+  "/Users/ssaifulin/repos/vfont/Example/VFontDemoUIKit/VFontViewController.swift" : {
+    "const-values" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/VFontViewController.swiftconstvalues",
+    "dependencies" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/VFontViewController.d",
+    "diagnostics" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/VFontViewController.dia",
+    "index-unit-output-path" : "/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/VFontViewController.o",
+    "llvm-bc" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/VFontViewController.bc",
+    "object" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/VFontViewController.o",
+    "swift-dependencies" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/VFontViewController.swiftdeps",
+    "swiftmodule" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/VFontViewController~partial.swiftmodule"
+  },
+  "/Users/ssaifulin/repos/vfont/Example/VFontDemoUIKit/View/AxisRow.swift" : {
+    "const-values" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/AxisRow.swiftconstvalues",
+    "dependencies" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/AxisRow.d",
+    "diagnostics" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/AxisRow.dia",
+    "index-unit-output-path" : "/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/AxisRow.o",
+    "llvm-bc" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/AxisRow.bc",
+    "object" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/AxisRow.o",
+    "swift-dependencies" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/AxisRow.swiftdeps",
+    "swiftmodule" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/AxisRow~partial.swiftmodule"
+  },
+  "/Users/ssaifulin/repos/vfont/Example/VFontDemoUIKit/View/AxisTagLabel.swift" : {
+    "const-values" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/AxisTagLabel.swiftconstvalues",
+    "dependencies" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/AxisTagLabel.d",
+    "diagnostics" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/AxisTagLabel.dia",
+    "index-unit-output-path" : "/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/AxisTagLabel.o",
+    "llvm-bc" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/AxisTagLabel.bc",
+    "object" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/AxisTagLabel.o",
+    "swift-dependencies" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/AxisTagLabel.swiftdeps",
+    "swiftmodule" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/AxisTagLabel~partial.swiftmodule"
+  },
+  "/Users/ssaifulin/repos/vfont/Example/VFontDemoUIKit/View/FontRow.swift" : {
+    "const-values" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/FontRow.swiftconstvalues",
+    "dependencies" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/FontRow.d",
+    "diagnostics" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/FontRow.dia",
+    "index-unit-output-path" : "/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/FontRow.o",
+    "llvm-bc" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/FontRow.bc",
+    "object" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/FontRow.o",
+    "swift-dependencies" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/FontRow.swiftdeps",
+    "swiftmodule" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/FontRow~partial.swiftmodule"
+  },
+  "/Users/ssaifulin/repos/vfont/Example/VFontDemoUIKit/View/PaddingLabel.swift" : {
+    "const-values" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/PaddingLabel.swiftconstvalues",
+    "dependencies" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/PaddingLabel.d",
+    "diagnostics" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/PaddingLabel.dia",
+    "index-unit-output-path" : "/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/PaddingLabel.o",
+    "llvm-bc" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/PaddingLabel.bc",
+    "object" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/PaddingLabel.o",
+    "swift-dependencies" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/PaddingLabel.swiftdeps",
+    "swiftmodule" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/VFontDemoUIKit.build/Debug-iphonesimulator/VFontDemoUIKit.build/Objects-normal/arm64/PaddingLabel~partial.swiftmodule"
+  }
+}

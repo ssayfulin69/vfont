@@ -1,0 +1,140 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_$s5VFont4AxisC2idSivg",
+            "_VFontVersionNumber",
+            "_$s5VFontAAC4size12CoreGraphics7CGFloatVvpWvd",
+            "_$s5VFontAAC4size12CoreGraphics7CGFloatVvs",
+            "_$s5VFontAAC4size12CoreGraphics7CGFloatVvg",
+            "_$s5VFont4AxisC13AttrubuteNameOSHAAMc",
+            "_$s5VFontAAC6uiFontSo6UIFontCvg",
+            "_$s5VFontAACN",
+            "_$s5VFont4AxisC5value12CoreGraphics7CGFloatVvgTq",
+            "_$s5VFontAAC4axesSDySiAA4AxisCGvM",
+            "_$s5VFont4AxisCMa",
+            "_$s5VFontAAC7updatedySo6UIFontCSgcSgvs",
+            "_$s5VFontAAC4axesSDySiAA4AxisCGvg",
+            "_$s5VFont4AxisC5value12CoreGraphics7CGFloatVvM",
+            "_$s5VFontAAC4nameSSvpMV",
+            "_$s5VFontAAC4nameSSvpWvd",
+            "_$s5VFontAAC18getAxesDescriptionSSyF",
+            "_$s5VFont4AxisC5value12CoreGraphics7CGFloatVvs",
+            "_$s7SwiftUI4FontV5VFontE01vC0_4size6axisID5valueACSS_12CoreGraphics7CGFloatVSiAKtFZ",
+            "_$s5VFontAAC6uiFontSo6UIFontCvM",
+            "_$s5VFont4AxisC13AttrubuteNameON",
+            "_$s5VFont4AxisC5value12CoreGraphics7CGFloatVvMTq",
+            "_$s5VFont4AxisC8maxValue12CoreGraphics7CGFloatVvpMV",
+            "_$s5VFont4AxisCMn",
+            "_$s5VFontAAC7updatedySo6UIFontCSgcSgvM",
+            "_$s5VFontAAC7updatedySo6UIFontCSgcSgvsTq",
+            "_$s5VFont4AxisC2idSivpWvd",
+            "_$s5VFontAAC4name4sizeABSgSS_12CoreGraphics7CGFloatVtcfC",
+            "_$s5VFontAAC18getAxesDescriptionSSyFTq",
+            "_$s5VFont4AxisC12defaultValue12CoreGraphics7CGFloatVvpMV",
+            "_$s5VFontAACfD",
+            "_$s5VFont4AxisC5value12CoreGraphics7CGFloatVvpMV",
+            "_$s5VFontAACfd",
+            "_$s5VFontAACMn",
+            "_Swift50Overrides",
+            "_$s5VFontAACMm",
+            "_$s5VFont4AxisC13AttrubuteNameOSYAAMc",
+            "_$s5VFontAAC4size12CoreGraphics7CGFloatVvgTq",
+            "_$s5VFont4AxisC13AttrubuteNameO8rawValueSSvg",
+            "_$s5VFontAAC7updatedySo6UIFontCSgcSgvg",
+            "_$s5VFontAACMa",
+            "_$s5VFont4AxisC8minValue12CoreGraphics7CGFloatVvpMV",
+            "_$s5VFont4AxisC8minValue12CoreGraphics7CGFloatVvg",
+            "_$s5VFont4AxisC8minValue12CoreGraphics7CGFloatVvpWvd",
+            "_$s5VFontAAC6uiFontSo6UIFontCvgTq",
+            "_$s5VFont4AxisC13AttrubuteNameOMa",
+            "_$s5VFontAAC4size12CoreGraphics7CGFloatVvM",
+            "_$s5VFont4AxisC13AttrubuteNameO8rawValueAESgSS_tcfC",
+            "_$s5VFont4AxisC4nameSSvpMV",
+            "_$s5VFontAAC16variableFontNameSSvpMV",
+            "_$s5VFontAAC9setValues7forAxesySDySi12CoreGraphics7CGFloatVG_tFTq",
+            "_$s5VFontAAC7updatedySo6UIFontCSgcSgvpWvd",
+            "_$s5VFont4AxisC4nameSSvpWvd",
+            "_$s5VFont4AxisC12defaultValue12CoreGraphics7CGFloatVvpWvd",
+            "_$s5VFontAAC4nameSSvs",
+            "_$s5VFontAAC4name4sizeABSgSS_12CoreGraphics7CGFloatVtcfCTq",
+            "_$s5VFontAAC4size12CoreGraphics7CGFloatVvpMV",
+            "_Swift51Overrides",
+            "_$s5VFont4AxisC8maxValue12CoreGraphics7CGFloatVvpWvd",
+            "_$s5VFontAAC7updatedySo6UIFontCSgcSgvgTq",
+            "_$s5VFontAAC4nameSSvg",
+            "_$s5VFontAAC8setValue_9forAxisIDy12CoreGraphics7CGFloatV_SitFTq",
+            "_$s5VFontAAC10updateFont33_D1CED791102EC2620B3B75B516D910FELLyyF",
+            "_$s5VFont4AxisC13AttrubuteNameO8rawValueSSvpMV",
+            "_$s7SwiftUI4FontV5VFontE01vC0_4size4axesACSS_12CoreGraphics7CGFloatVSDySiAJGtFZ",
+            "_$s5VFont4AxisCMm",
+            "_$s5VFontAAC8setValue_9forAxisIDy12CoreGraphics7CGFloatV_SitF",
+            "_$s5VFontAAC7updatedySo6UIFontCSgcSgvpfi",
+            "_$s5VFontAAC7updatedySo6UIFontCSgcSgvpMV",
+            "_$s5VFont4AxisC12defaultValue12CoreGraphics7CGFloatVvg",
+            "_$s5VFont4AxisC5value12CoreGraphics7CGFloatVvpWvd",
+            "_$s5VFontAAC9_setValue33_D1CED791102EC2620B3B75B516D910FELL_6axisIDy12CoreGraphics7CGFloatV_SitF",
+            "_$s5VFontAAC4axesSDySiAA4AxisCGvgTq",
+            "_$s5VFont4AxisC5value12CoreGraphics7CGFloatVvg",
+            "_$s5VFont4AxisC2idSivpMV",
+            "_$s5VFont4AxisCfD",
+            "_$s5VFont4AxisCN",
+            "_$s5VFont4AxisC13AttrubuteNameOSQAAMc",
+            "_$s5VFontAAC4nameSSvM",
+            "_$s5VFont4AxisC13AttrubuteNameOMn",
+            "_$s5VFontAAC4axesSDySiAA4AxisCGvs",
+            "_$s5VFontAAC4nameSSvgTq",
+            "_$s5VFontAAC9setValues7forAxesySDySi12CoreGraphics7CGFloatVG_tF",
+            "_$s5VFontAAC6uiFontSo6UIFontCvpMV",
+            "_$s5VFont4AxisC4nameSSvg",
+            "_$s5VFontAAC4axesSDySiAA4AxisCGvpWvd",
+            "_$s5VFontAAC16variableFontNameSSvgTq",
+            "_$s5VFontAAC4axesSDySiAA4AxisCGvpMV",
+            "_VFontVersionString",
+            "_$s5VFont4AxisC5value12CoreGraphics7CGFloatVvsTq",
+            "_$s5VFont4AxisC8maxValue12CoreGraphics7CGFloatVvg",
+            "_$s5VFontAAC6uiFontSo6UIFontCvs",
+            "_$s5VFont4AxisCfd",
+            "_$s5VFontAAC7updatedySo6UIFontCSgcSgvMTq",
+            "_$s5VFontAAC4name4sizeABSgSS_12CoreGraphics7CGFloatVtcfc",
+            "_$s5VFontAAC6uiFontSo6UIFontCvpWvd",
+            "_$s5VFontAAC16variableFontNameSSvg"
+          ]
+        },
+        "text": {
+          "global": [
+            "__ZN5swift39swift51override_conformsToSwiftProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEN7__swift9__runtime4llvm9StringRefEPFPKNS_35TargetProtocolConformanceDescriptorIS1_EES4_S8_SC_E",
+            "__ZN5swift34swift50override_conformsToProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEPFPKNS_18TargetWitnessTableIS1_EES4_S8_E",
+            "__Z34_swiftoverride_class_getSuperclassPKN5swift14TargetMetadataINS_9InProcessEEE"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/VFont.framework/VFont"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "9",
+        "target": "arm64-ios"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

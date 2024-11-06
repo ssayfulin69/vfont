@@ -1,0 +1,28 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "373e97dcc59c6662eb5b0fca1bbf5d2116c1525b",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)",
+      "identifier" : "ios-arm64",
+      "name" : "VFont",
+      "container" : "VFont.xcframework",
+      "hash" : "da2457b045ebf77b110017ab2c73f9d039a29656bd8db0eb5a304b4777268db8"
+    },
+    {
+      "container" : "VFont.xcframework",
+      "name" : "VFont",
+      "swiftToolchainVersion" : "5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)",
+      "hash" : "47849636099ef8b4f2e10091c4dd8036ac14dcf5cf3d1fc8ed22ce4121131fa4",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    }
+  ]
+}

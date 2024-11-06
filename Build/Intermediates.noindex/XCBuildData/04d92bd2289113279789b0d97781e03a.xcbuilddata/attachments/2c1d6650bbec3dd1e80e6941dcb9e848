@@ -1,0 +1,10 @@
+framework module VFont {
+  umbrella header "VFont.h"
+  export *
+
+  module * { export * }
+}
+
+module VFont.__Swift {
+  exclude header "VFont-Swift.h"
+}

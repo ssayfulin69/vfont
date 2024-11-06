@@ -1,0 +1,11 @@
+framework module VFont {
+  umbrella header "VFont.h"
+  export *
+
+  module * { export * }
+}
+
+module VFont.Swift {
+  header "VFont-Swift.h"
+  requires objc
+}

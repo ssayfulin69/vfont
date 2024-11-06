@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "2dc1aba0d2fd3613c0fbff87dad517a27a78fcc59824e42ff8b4eafc2d547bd8"
+build_start_time: [1730893094, 460777000]
+build_end_time: [1730893097, 98284000]
+inputs:
+  "/Users/ssaifulin/repos/vfont/Source/Framework/Axis.swift": [1730803854, 213829059]
+  "/Users/ssaifulin/repos/vfont/Source/Framework/VFont.swift": [1730803854, 214071475]

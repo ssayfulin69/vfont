@@ -1,0 +1,97 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "c8e511b5eabb7787846d5246d53034344b6f45af101ea360a6e7ebcd8d08b53f"
+    }
+  ],
+  "containerPath" : "/Users/ssaifulin/repos/vfont/VFont.xcworkspace",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "install",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos17.4",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/ssaifulin/repos/vfont/Build/Products",
+      "derivedDataPath" : "/Users/ssaifulin/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ssaifulin/Library/Developer/Xcode/DerivedData/VFont-aywxmmdeazmoqqhcmkmirnhgkdae/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ssaifulin/Library/Developer/Xcode/DerivedData/VFont-aywxmmdeazmoqqhcmkmirnhgkdae/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "CARTHAGE" : "YES",
+          "CLANG_ENABLE_CODE_COVERAGE" : "NO",
+          "CODE_SIGN_IDENTITY" : "",
+          "CODE_SIGNING_REQUIRED" : "NO",
+          "GCC_INSTRUMENT_PROGRAM_FLOW_ARCS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "NO",
+          "SDKROOT" : "iphoneos17.4",
+          "SKIP_INSTALL" : "YES",
+          "STRIP_INSTALLED_PRODUCT" : "NO",
+          "SUPPORTS_MACCATALYST" : "NO",
+          "VALIDATE_WORKSPACE" : "NO"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "install",
+          "ASSET_PACK_FOLDER_PATH" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/ArchiveIntermediates/VFont/InstallationBuildProductsLocation/OnDemandResources",
+          "ASSETCATALOG_COMPILER_FLATTENED_APP_ICON_PATH" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/ArchiveIntermediates/VFont/BuildProductsPath/ProductIcon.png",
+          "BITCODE_GENERATION_MODE" : "bitcode",
+          "DEPLOYMENT_LOCATION" : "YES",
+          "DEPLOYMENT_POSTPROCESSING" : "YES",
+          "DSTROOT" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/ArchiveIntermediates/VFont/InstallationBuildProductsLocation",
+          "EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE" : "NO",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_SIGNATURE_AGGREGATION" : "YES",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "INDEX_ENABLE_DATA_STORE" : "NO",
+          "MESSAGES_APPLICATION_EXTENSION_SUPPORT_FOLDER_PATH" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/ArchiveIntermediates/VFont/BuildProductsPath/MessagesApplicationExtensionSupport",
+          "MESSAGES_APPLICATION_SUPPORT_FOLDER_PATH" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/ArchiveIntermediates/VFont/BuildProductsPath/MessagesApplicationSupport",
+          "OBJROOT" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/ArchiveIntermediates/VFont/IntermediateBuildFilesPath",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "SHARED_PRECOMPS_DIR" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/ArchiveIntermediates/VFont/PrecompiledHeaders",
+          "SIGNATURE_METADATA_FOLDER_PATH" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/ArchiveIntermediates/VFont/BuildProductsPath/Signatures",
+          "SWIFT_STDLIB_TOOL_UNSIGNED_DESTINATION_DIR" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/ArchiveIntermediates/VFont/BuildProductsPath/SwiftSupport",
+          "SYMROOT" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/ArchiveIntermediates/VFont/BuildProductsPath",
+          "WATCHKIT_2_SUPPORT_FOLDER_PATH" : "/Users/ssaifulin/repos/vfont/Build/Intermediates.noindex/ArchiveIntermediates/VFont/BuildProductsPath/WatchKitSupport2"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "archive",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

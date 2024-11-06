@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'VFontDemoUIKit' in project 'VFontDemoUIKit'
+➜ Implicit dependency on target 'VFont' in project 'VFont' via file 'VFont.framework' in build phase 'Link Binary'
+Target 'VFont' in project 'VFont' (no dependencies)
